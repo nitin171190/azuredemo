@@ -6,7 +6,7 @@ UTC HYD
 
 <body>
 <h1>
-Welcome to WebApps PaaS!!
+Welcome to WebApps PaaS!!   New Version
 </h1>
 </body>
 </html>
